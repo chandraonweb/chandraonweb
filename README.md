@@ -12,12 +12,10 @@
 ### ⚡Clones
 - Netflix
 - Booking.com
-- 
 
 
 ### ⚡Javascript Projects
 - Bankify (DOM Manipulation)
-- 
 ### ⚡React JS Projects
 - E-Commerce Webapp
 ### ⚡Node JS Projects
