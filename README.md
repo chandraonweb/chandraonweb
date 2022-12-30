@@ -7,19 +7,29 @@
 ## 🚀 Meta Certified Frontend Developer
 ## 🚀 Meta Certified Backend Developer
 
-# Projects
+## Web Development Projects
 
-### ⚡Javascript Projects⚡
-- Bankify
-### ⚡React JS Projects⚡
+### ⚡Clones
+- Netflix
+- Booking.com
+- 
+
+
+### ⚡Javascript Projects
+- Bankify (DOM Manipulation)
+- 
+### ⚡React JS Projects
 - E-Commerce Webapp
-### ⚡Node JS Projects⚡
+### ⚡Node JS Projects
 
-### ⚡Python Projects⚡
+### ⚡Python Projects
 
-### ⚡CSS Projects⚡
-- goTours
+### ⚡CSS Projects
 
+- goTours (CSS Animation and Sass)
+<!-- |---------|----------|-----| -->
+
+## System Design 
 
 
 <!--
