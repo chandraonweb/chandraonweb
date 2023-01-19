@@ -1,7 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-- 🔭 I’m currently working on my Projects and Portfolio website.👨🏻‍💻
-- 🌱 I’m currently learning Full Stack Development in MERN, Python Django, Data Structure and Algorithms.🎯
+<!-- - 🔭 I’m currently working on my Projects and Portfolio website.👨🏻‍💻
+- 🌱 I’m currently learning Full Stack Development in MERN, Python Django, Data Structure and Algorithms.🎯 -->
 
 ![alt text](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/77/b2516312bd44b4a958b392f1a74ef3/200-x-48.png?auto=format%2Ccompress&dpr=1&w=&h=45 "Logo Title Text 1") 
 ## 🚀 Meta Certified Frontend Developer
@@ -17,7 +17,7 @@
 ### ⚡Javascript Projects
 - Bankify (DOM Manipulation)
 ### ⚡React JS Projects
-- E-Commerce Webapp
+- E-Commerce Webapp(goApparels)
 ### ⚡Node JS Projects
 
 ### ⚡Python Projects
