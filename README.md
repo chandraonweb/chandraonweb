@@ -3,7 +3,7 @@
 <p align="center"> Welcome to my profile! I'm passionate about coding and currently working on my projects and portfolio website. 👨🏻‍💻 I strive to create meaningful and impactful solutions through technology. As a lifelong learner, I'm dedicated to mastering Full Stack Development and honing my skills in Data Structures and Algorithms to solve complex problems efficiently.
  </p>
 
- 
+ <!------
 <h3 align="center" >Solo Projects </h3>
 <table align="center" style="width: 100%;">
   <thead>
@@ -38,6 +38,6 @@
   </tr>
 </table>
 
-
+--->
 
 
