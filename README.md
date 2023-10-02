@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hey👋, I'm Chandra 💻</h1>
 
 <p align="center"> Welcome to my profile! I'm passionate about coding and currently working on my projects and portfolio website. 👨🏻‍💻 I strive to create meaningful and impactful solutions through technology. As a lifelong learner, I'm dedicated to mastering Full Stack Development and honing my skills in Data Structures and Algorithms to solve complex problems efficiently.
  </p>
